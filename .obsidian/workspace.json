@@ -11,12 +11,14 @@
             "id": "8a09bc62e688797d",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "assets/20250425233804.png"
+                "file": "Redes Neuronales/Neurona.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "20250425233804"
+              "icon": "lucide-file",
+              "title": "Neurona"
             }
           }
         ]
@@ -168,13 +170,13 @@
   },
   "active": "8a09bc62e688797d",
   "lastOpenFiles": [
-    "README.md",
     "assets/20250425233804.png",
-    "assets",
-    "Redes Neuronales/Red neuronal.md",
     "Redes Neuronales/Neurona.md",
     "Redes Neuronales/Entropía.md",
     "Redes Neuronales/Energía.md",
+    "Redes Neuronales/Red neuronal.md",
+    "README.md",
+    "assets",
     "CITATION.md",
     "Nuevo Documento de texto.txt",
     "Redes Neuronales",

@@ -4,6 +4,8 @@ Una sinapsis es una conexión especializada entre neuronas, en la cual se transp
 
 Cada neurona tiene un mecanismo que determina si la neurona se activa. Si una neurona se activa, esta genera un impulso eléctrico denominado **activación**, que viaja a través del **axón**, una larga extensión encargada de transmitir la señal hacia las **dendritas** de otras neuronas. 
 
+![[20250425233804.png]]
+
 El proceso de integración de señales a la cual denominaremos simplemente como agregación, y la posterior activación de la neurona pueden verse como dos etapas contiguas en el procesamiento de información dentro de la neurona, de modo que durante la activación son conocidas las realizaciones de la **preactivación**.
 
 ### Agregación.
