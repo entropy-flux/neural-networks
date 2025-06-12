@@ -1,2 +1,3 @@
-# neural-networks
-Notas de redes neuronales
+# Redes Neuronales
+
+Notas de redes neuronales.
