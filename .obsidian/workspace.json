@@ -11,14 +11,12 @@
             "id": "8a09bc62e688797d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
+                "file": "assets/20250425233804.png"
               },
-              "icon": "lucide-file",
-              "title": "README"
+              "icon": "lucide-image",
+              "title": "20250425233804"
             }
           }
         ]
@@ -94,7 +92,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "assets/20250425233804.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +102,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Enlaces entrantes de README"
+              "title": "Enlaces entrantes de 20250425233804"
             }
           },
           {
@@ -113,12 +111,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "assets/20250425233804.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Enlaces salientes de README"
+              "title": "Enlaces salientes de 20250425233804"
             }
           },
           {
@@ -142,13 +140,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md",
+                "file": "assets/20250425233804.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de README"
+              "title": "Esquema de 20250425233804"
             }
           }
         ]
@@ -170,11 +168,13 @@
   },
   "active": "8a09bc62e688797d",
   "lastOpenFiles": [
+    "README.md",
+    "assets/20250425233804.png",
+    "assets",
     "Redes Neuronales/Red neuronal.md",
     "Redes Neuronales/Neurona.md",
     "Redes Neuronales/Entropía.md",
     "Redes Neuronales/Energía.md",
-    "README.md",
     "CITATION.md",
     "Nuevo Documento de texto.txt",
     "Redes Neuronales",
