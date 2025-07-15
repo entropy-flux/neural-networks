@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Neurona"
             }
+          },
+          {
+            "id": "511714f674806400",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Redes Neuronales/Dropout.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Dropout"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "b6ba702cd7dbb59d",
@@ -168,13 +183,15 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "3ead7b6a92e4e73b",
+  "active": "511714f674806400",
   "lastOpenFiles": [
-    "assets/20250425233804.png",
+    "Algebra.md",
     "Redes Neuronales/Neurona.md",
-    "Redes Neuronales/Entropía.md",
+    "Redes Neuronales/Dropout.md",
     "Redes Neuronales/Energía.md",
+    "Redes Neuronales/Entropía.md",
     "Redes Neuronales/Red neuronal.md",
+    "assets/20250425233804.png",
     "README.md",
     "assets",
     "CITATION.md",
