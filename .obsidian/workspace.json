@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes Neuronales/5. Capas.md",
+                "file": "Redes Neuronales/4. Neuronas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Capas"
+              "title": "4. Neuronas"
             }
           },
           {
@@ -27,12 +27,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes Neuronales/5. Capas.md",
+                "file": "Verosimilitud.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Capas"
+              "title": "Verosimilitud"
+            }
+          },
+          {
+            "id": "f67fe2b173414f23",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Aprendizaje.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Aprendizaje"
             }
           },
           {
@@ -41,16 +55,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redes Neuronales/5. Capas.md",
+                "file": "Redes Neuronales/4. Neuronas.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5. Capas"
+              "title": "4. Neuronas"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,26 +211,32 @@
       "command-palette:Abrir paleta de comandos": false
     }
   },
-  "active": "beb311a719c32490",
+  "active": "a820699627bfb387",
   "lastOpenFiles": [
-    "Redes Neuronales/6. Incrustaciones.md",
     "Redes Neuronales/5. Capas.md",
-    "Redes Neuronales/7. Atención.md",
     "Redes Neuronales/4. Neuronas.md",
-    "notebooks/transformers.ipynb",
-    "Redes Neuronales/2. Entropía.md",
+    "Verosimilitud.md",
+    "Aprendizaje.md",
+    "Redes Neuronales/6. Incrustaciones.md",
+    "README.md",
     "Redes Neuronales/8. Dropout.md",
-    "Redes Neuronales/8.Momento.md",
+    "Redes Neuronales/7. Atención.md",
+    "Redes Neuronales/2. Entropía.md",
     "Redes Neuronales/1. Algebra.md",
     "Redes Neuronales/3. Energía.md",
-    "Sin título.md",
+    "Notebooks/pseudo-inverse.ipynb",
+    "Notebooks/neuron.ipynb",
+    "Notebooks/linear-regression.ipynb",
+    "Notebooks",
+    "_/transformers.ipynb",
+    "_/multilinear-regression.ipynb",
+    "_/linear-regression.ipynb",
+    "_/dropconnect.ipynb",
+    "_/autoencoders.ipynb",
+    "_/_.ipynb",
+    "Redes Neuronales/8.Momento.md",
     "Algebra.md",
     "assets/20250425233804.png",
-    "README.md",
-    "assets",
-    "CITATION.md",
-    "Nuevo Documento de texto.txt",
-    "Redes Neuronales",
-    "notes"
+    "CITATION.md"
   ]
 }

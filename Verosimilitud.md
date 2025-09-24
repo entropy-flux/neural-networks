@@ -1,0 +1,1 @@
+La verosimilitud es un estimador que mide que tan bien un modelo estadístico explica los datos.  
